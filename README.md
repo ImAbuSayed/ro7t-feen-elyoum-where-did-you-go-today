@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> رحت فين اليوم والقلب مشتاق
+> في عتمة الليل نار وأشواق
+> أنا هنا أسمع نداء العيون
+> ونار الحب تأخذنا للجنون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
