@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ro7t Feen Elyoum – Where did you go today? |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ro7t-feen-elyoum-where-did-you-go-today/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> رحت فين اليوم والقلب مشتاق
+> في عتمة الليل نار وأشواق
+> أنا هنا أسمع نداء العيون
+> ونار الحب تأخذنا للجنون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
