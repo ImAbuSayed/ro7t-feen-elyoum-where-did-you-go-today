@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ro7t-feen-elyoum-where-did-you-go-today/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Ro7t Feen Elyoum – Where did you go today?](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get Permission to Use Ro7t Feen Elyoum – Where did you go today?](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
