@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ro7t Feen Elyoum – Where did you go today?
+
+This log tracks the cryptographic history and versioning for the song **Ro7t Feen Elyoum – Where did you go today?** (ro7t-feen-elyoum-where-did-you-go-today).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:06:29.966222 | `v1` | `c08a17dbbb790d0b6dc8e2fa2838e260f52520b7443e2ef90cd3272342c95a69` | `58346dfad826bbfd88e43b5ba138c8e60016ed5173e963ffb0f06a78d3ec43cf` | `2026-05-09_ro7t-feen-elyoum-where-did-you-go-today-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
